@@ -1,0 +1,5 @@
+Déposez ici les logos officiels (PNG ou SVG fond transparent, ~400 px de large) :
+  cnamgs.png
+  cnss.png
+  mairie-libreville.png
+Ils remplacent automatiquement le nom écrit dans les cartes « Partenaires ».
